@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
           </a>
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
+          This simple website was developed with Next.js on my first trial following their tutorials. - 
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
